@@ -1,10 +1,72 @@
-# Anson Cheung - 太空能源專案作品集
+# 👋 Hi, I'm Anson Cheung
 
-## 專案列表（按文明發展次序）
+**14 years old | Space Energy System Architect | 5 NASA-grade Projects (Phase A-F)**
 
-| 次序 | 專案 | 分數 | 階段 | 連結 |
+---
+
+## 🚀 My Projects
+
+I have completed **5 full Phase A-F projects**, covering the entire path from planetary energy to interstellar travel.
+
+| # | Project | Score | Phase | Key Innovation |
 |:---|:---|:---|:---|:---|
-| 1 | **月球 (Luna-Grid 1.5)** | 9.7 | Phase A-F | [GitHub](https://github.com/ansoncheung18-maker/Project-Luna-Grid-1.5) |
-| 2 | **金星 (VCCE 1.0)** | 9.6 | Phase A-F | [GitHub](https://github.com/ansoncheung18-maker/Venus-Cloud-City-Energy) |
-| 3 | **水星 (MEEP 1.0)** | 9.5 | Phase A-F | [GitHub](https://github.com/ansoncheung18-maker/Mercury-Extreme-Energy-Platform) |
-| 4 | **核聚變 (Project Helios)** | 9.6 | Phase A-F | [GitHub](https://github.com/ansoncheung18-maker/Project-Helios-Nuclear-Fusion) |
+| 1 | **[Project Luna-Grid 1.5](https://github.com/ansoncheung18-maker/Project-Luna-Grid-1.5)** | **9.7/10** | A-F | 3D vertical grating, 5x area gain |
+| 2 | **[Venus Cloud City Energy](https://github.com/ansoncheung18-maker/Venus-Cloud-City-Energy)** | **9.6/10** | A-F | Floating solar platform at 55km |
+| 3 | **[Mercury Extreme Energy](https://github.com/ansoncheung18-maker/Mercury-Extreme-Energy-Platform)** | **9.5/10** | A-F | Extreme environment solar + thermoelectric |
+| 4 | **[Project Helios - Fusion](https://github.com/ansoncheung18-maker/Project-Helios-Nuclear-Fusion)** | **9.6/10** | A-F | Modular fusion-fission hybrid + Fuel Bank |
+| 5 | **[Project Fusion Spaceship](https://github.com/ansoncheung18-maker/Project-Fusion-Spaceship)** | **9.5/10** | A-F | 500MW fusion-powered interplanetary ship |
+
+---
+
+## 🧠 Technical Skills
+
+| Skill | Details |
+|:---|:---|
+| Python | Physics simulations, digital twins, data analysis |
+| System Engineering | Phase A-F (NASA lifecycle) |
+| CAD | Meshy AI, 3D modeling |
+| GitHub | Full project documentation |
+| Physics | Nuclear fusion, thermodynamics, orbital mechanics |
+
+---
+
+## 🌌 My Vision: Solar System Civilization Roadmap
+Fusion Energy (Project Helios)
+↓
+Lunar Base (Luna-Grid) → Venus Science (VCCE) → Mercury Industry (MEEP)
+↓
+Fusion Spaceship (Interplanetary Transport)
+↓
+Dyson Swarm (Ultimate Goal)
+
+---
+
+## 📊 Key Achievements
+
+- **5 complete Phase A-F projects** (NASA project lifecycle)
+- **~50 Python simulations** across all projects
+- **~100+ documentation files** on GitHub
+- **All projects scored 9.5-9.7/10**
+- **100% self-directed + AI-assisted**
+
+---
+
+## 🔗 Links
+
+- **GitHub:** [github.com/ansoncheung18-maker](https://github.com/ansoncheung18-maker)
+- **Project Portfolio:** See projects above
+
+---
+
+## 📚 References
+
+- NASA Artemis Program
+- NASA HAVOC Concept
+- NASA Fusion Propulsion Research
+- ITER & EAST Fusion Projects
+
+---
+
+**"The best way to predict the future is to build it."**
+
+*Last updated: 2026-06-24*
