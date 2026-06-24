@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Anson Cheung
 
-**14 years old | Space Energy System Architect | 5 NASA-grade Projects (Phase A-F)**
+**14 years old | Space Energy System Architect | 6 NASA-grade Projects (Phase A-F)**
 
 ---
 
 ## 🚀 My Projects
 
-I have completed **5 full Phase A-F projects**, covering the entire path from planetary energy to interstellar travel.
+I have completed **6 full Phase A-F projects**, covering the entire path from planetary energy to human health.
 
 | # | Project | Score | Phase | Key Innovation |
 |:---|:---|:---|:---|:---|
@@ -15,6 +15,7 @@ I have completed **5 full Phase A-F projects**, covering the entire path from pl
 | 3 | **[Mercury Extreme Energy](https://github.com/ansoncheung18-maker/Mercury-Extreme-Energy-Platform)** | **9.5/10** | A-F | Extreme environment solar + thermoelectric |
 | 4 | **[Project Helios - Fusion](https://github.com/ansoncheung18-maker/Project-Helios-Nuclear-Fusion)** | **9.6/10** | A-F | Modular fusion-fission hybrid + Fuel Bank |
 | 5 | **[Project Fusion Spaceship](https://github.com/ansoncheung18-maker/Project-Fusion-Spaceship)** | **9.5/10** | A-F | 500MW fusion-powered interplanetary ship |
+| 6 | **[Project Fusion Health Revolution](https://github.com/ansoncheung18-maker/Project-Fusion-Health-Revolution)** | **9.0-9.3** | A-F | Fusion + AI = Precision Medicine for All |
 
 ---
 
@@ -37,16 +38,19 @@ Lunar Base (Luna-Grid) → Venus Science (VCCE) → Mercury Industry (MEEP)
 ↓
 Fusion Spaceship (Interplanetary Transport)
 ↓
+Fusion Health (Human Longevity)
+↓
 Dyson Swarm (Ultimate Goal)
+
 
 ---
 
 ## 📊 Key Achievements
 
-- **5 complete Phase A-F projects** (NASA project lifecycle)
-- **~50 Python simulations** across all projects
-- **~100+ documentation files** on GitHub
-- **All projects scored 9.5-9.7/10**
+- **6 complete Phase A-F projects** (NASA project lifecycle)
+- **~60 Python simulations** across all projects
+- **~120+ documentation files** on GitHub
+- **All projects scored 9.0-9.7/10**
 - **100% self-directed + AI-assisted**
 
 ---
@@ -64,6 +68,8 @@ Dyson Swarm (Ultimate Goal)
 - NASA HAVOC Concept
 - NASA Fusion Propulsion Research
 - ITER & EAST Fusion Projects
+- DeepMind AlphaFold
+- NIH Precision Medicine
 
 ---
 
